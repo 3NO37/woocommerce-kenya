@@ -184,10 +184,10 @@ function custom_woocommerce_states( $states ) {
 
 
 ### === Test the Solution ===
-You can test the solution by accessing this page [WooCommerce Checkout Test](https://techstars.co.ke/woocommerce/).
-
 * Add item to cart
 * Proceed to check out
 * Add different locations to deliver to
 * Make sure you fill in all the required fields
-See the price changine
+== See the price changing
+
+You can test the solution by accessing this page [WooCommerce Checkout Test](https://techstars.co.ke/woocommerce/)
