@@ -186,7 +186,7 @@ function custom_woocommerce_states( $states ) {
 ### === Test the Solution ===
 * Add item to cart
 * Proceed to check out
-* Add different locations to deliver to
+* Add location to DELIVER TO
 * Make sure you fill in all the required fields
 == See the price changing
 
