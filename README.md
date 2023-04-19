@@ -1,1 +1,1 @@
-# Editing Shipping Regions and Locations in Kenya for Commerce
+ =============== Editing Shipping Regions and Locations in Kenya for WooCommerce  ===============
